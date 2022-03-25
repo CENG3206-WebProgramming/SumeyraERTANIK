@@ -1,0 +1,44 @@
+table {
+  width: 110%;
+}
+
+th {
+  height: 110%;
+}
+
+body{
+  
+  font-family: Garamond, EB Garamond, Georgia, serif;
+  background-color: rgb(255, 239, 239);
+}
+
+#photo{
+  text-align: center;
+}
+#about{
+  text-align: center;
+}
+
+
+
+h2{
+  color: rgb(117, 6, 80);
+  background: rgb(204, 229, 255);
+
+}
+
+h1{
+  color: rgb(75, 36, 74);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+#hby li{
+  border-bottom: 1px solid rgb(75, 36, 74);
+  list-style-type: circle;
+}
+#skl li{
+  border-bottom: 1px solid rgb(75, 36, 74);
+  list-style-type: circle;
+}
